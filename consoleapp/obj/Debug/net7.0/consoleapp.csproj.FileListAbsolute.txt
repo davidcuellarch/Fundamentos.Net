@@ -1,0 +1,14 @@
+Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\consoleapp.exe
+Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\consoleapp.deps.json
+Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\consoleapp.runtimeconfig.json
+Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\consoleapp.dll
+Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\consoleapp.pdb
+Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\consoleapp.AssemblyInfoInputs.cache
+Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\consoleapp.AssemblyInfo.cs
+Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\consoleapp.csproj.CoreCompileInputs.cache
+Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\consoleapp.dll
+Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\refint\consoleapp.dll
+Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\consoleapp.pdb
+Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\consoleapp.genruntimeconfig.cache
+Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\ref\consoleapp.dll
