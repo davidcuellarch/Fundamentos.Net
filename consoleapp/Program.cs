@@ -13,3 +13,4 @@ Console.WriteLine($"la palabra {textToTranslate} se traduce a {languageToTransla
 var result = await translator.TranslateAsync(Convert.ToString(textToTranslate), languageToTranslate, "es");
 
 Console.WriteLine(result);
+Console.WriteLine("Presione cualquier tecla para salir");
