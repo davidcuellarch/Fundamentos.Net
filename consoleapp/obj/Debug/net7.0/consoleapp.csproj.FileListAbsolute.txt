@@ -63,3 +63,6 @@ Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\zh-Hans\Humanizer.resource
 Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
 Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\consoleapp.csproj.AssemblyReference.cache
 Z:\Cursos\Fundamentos.Net\consoleapp\obj\Debug\net7.0\consoleapp.csproj.CopyComplete
+Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\GoogleTranslateFreeApi.dll
+Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\Newtonsoft.Json.dll
+Z:\Cursos\Fundamentos.Net\consoleapp\bin\Debug\net7.0\GTranslate.dll

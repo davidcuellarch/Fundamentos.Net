@@ -1,19 +1,15 @@
-﻿using Humanizer;
+﻿using System;
+using GTranslate.Translators;
 
-Console.WriteLine("Ingrese su nombre");
-var userName = Console.ReadLine();
+// Create an instance of the Google Translator
+var translator = new GoogleTranslator();
 
-Console.WriteLine($"Hola {userName}!");
-Console.WriteLine("Cual es su cargo?");
-var userPosition = Console.ReadLine();
+// Translate any input text to english
+Console.WriteLine("Ingrese su texto a traducir: ");
+var textToTranslate = Console.ReadLine();
+Console.WriteLine("Ingrese el idioma al que desea traducir: ");
+var languageToTranslate = Console.ReadLine();
+Console.WriteLine($"la palabra {textToTranslate} se traduce a {languageToTranslate} de la siguiente manera:");
+var result = await translator.TranslateAsync(Convert.ToString(textToTranslate), languageToTranslate, "es");
 
-Console.WriteLine("Cual es su edad?");
-int userAge = Convert.ToInt32(Console.ReadLine());
-
-
-Console.WriteLine($"Su nombre es {userName}, su cargo es {userPosition} y su edad es {userAge.ToWords(new System.Globalization.CultureInfo("En"))}");
-Console.WriteLine("Bienvenido a esta Empresa");
-Console.WriteLine("Presione cualquier tecla para salir");
-
-
-
+Console.WriteLine(result);
