@@ -14,3 +14,4 @@ var result = await translator.TranslateAsync(Convert.ToString(textToTranslate), 
 
 Console.WriteLine(result);
 Console.WriteLine("Presione cualquier tecla para salir");
+Console.WriteLine("adios!!!!!!!!!!!!!");
